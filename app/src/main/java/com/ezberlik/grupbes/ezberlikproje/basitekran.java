@@ -21,6 +21,8 @@ public class basitekran extends AppCompatActivity {
         Başla.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
+                Intent intent = new Intent(basitekran.this, QuizActivity.class);
+                startActivity(intent);
 
 
             }
