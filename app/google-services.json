@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "440798042523",
+    "firebase_url": "https://ezberlikproje.firebaseio.com",
+    "project_id": "ezberlikproje",
+    "storage_bucket": "ezberlikproje.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440798042523:android:95b448fb122b27b1",
+        "android_client_info": {
+          "package_name": "com.ezberlik.grupbes.ezberlikproje"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "440798042523-l6lahg93ro0eosi4fgjdsk0u1nnui27u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ezberlik.grupbes.ezberlikproje",
+            "certificate_hash": "e34bd6cad04d966b5c441890e747d8cef8081108"
+          }
+        },
+        {
+          "client_id": "440798042523-v2sqmht6nm7cqaqaphuepbqj3saeke3v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyogPfH1G_s_Y-JIPf26wnVAB_8x5SzJQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "440798042523-v2sqmht6nm7cqaqaphuepbqj3saeke3v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
