@@ -148,6 +148,7 @@ public class QuizActivity extends AppCompatActivity {
 
     }
 
+    //test
     public void pickQuestions()
     {
         quizQuestions = new ArrayList<>();
